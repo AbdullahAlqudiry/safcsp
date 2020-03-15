@@ -25,7 +25,7 @@ Then Navigate to your http://127.0.0.1:8000 in your browser.
 https://safcsp.next-apps.com
 
 
-### Admin System User:
+### Admin User Information:
 ```sh
 email: admin@safcsp.com
 password: password123
