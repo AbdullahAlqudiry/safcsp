@@ -23,3 +23,12 @@ Then Navigate to your http://127.0.0.1:8000 in your browser.
 
 ### Live Demo for this project:
 https://safcsp.next-apps.com
+
+
+### Admin System User:
+```sh
+email: admin@safcsp.com
+password: password123
+```
+
+##### note that the default of users that created with seeders is: password123

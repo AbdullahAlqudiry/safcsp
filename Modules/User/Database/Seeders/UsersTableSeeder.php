@@ -20,7 +20,7 @@ class UsersTableSeeder extends Seeder
         $adminData = User::create([
             'name' => 'Admin',
             'email' => 'admin@safcsp.com',
-            'password' => bcrypt('password'),
+            'password' => bcrypt('password123'),
         ]);
         $adminData->syncRoles('Admin');
         $adminData->groups()->sync(Group::all());
