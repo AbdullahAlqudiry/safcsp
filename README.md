@@ -4,6 +4,11 @@
   - Clone the project
   - setup database information in .env
 
+#### Install project using composer
+```sh
+composer install
+```
+
 #### commands to migrate the project database & seed the database with fake data:
 ```sh
 php artisan migrate
