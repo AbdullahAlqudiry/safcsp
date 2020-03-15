@@ -31,4 +31,4 @@ email: admin@safcsp.com
 password: password123
 ```
 
-##### note that the default of users that created with seeders is: password123
+##### note that the default password of users that created with seeders is: password123
